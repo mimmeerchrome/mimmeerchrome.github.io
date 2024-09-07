@@ -31,8 +31,8 @@ p {
 }
 
 #boxcorn {
+  width: 50%;
   padding: 5px;
   border-radius: 25px;
   background-color: #e8f0fe;
-  width: 50%;
 }
