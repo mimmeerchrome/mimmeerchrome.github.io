@@ -1,0 +1,14 @@
+@font-face {
+  font-family: googleSans;
+  src: url(sansation_light.woff);
+}
+
+@font-face {
+  font-family: googleSans;
+  src: url(GoogleSans-Bold.ttf);
+  font-weight: bold;
+}
+
+div {
+  font-family: googleSans;
+}
