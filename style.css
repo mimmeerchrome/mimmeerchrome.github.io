@@ -29,3 +29,9 @@ h3 {
 p {
   font-size: 19px;
 }
+
+#boxcorn {
+  padding: 5px;
+  border-radius: 25px;
+  background-color: #e8f0fe;
+}
