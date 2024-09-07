@@ -12,3 +12,7 @@
 * {
   font-family: googleSans;
 }
+
+#middle {
+  float: center;
+}
