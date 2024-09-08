@@ -76,6 +76,12 @@ p {
   padding: 8px;
 }
 
-.github {
+.open-button {
+  border-radius: 50%;
+  background-color: #1a73e8;
+  padding: 8px;
+}
+
+.rndb {
   margin-bottom: 0px;
 }
