@@ -69,3 +69,7 @@ p {
   display: flex;
   justify-content: flex-end;
 }
+
+.github-button {
+  border-radius: 50%;
+}
