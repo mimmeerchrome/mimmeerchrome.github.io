@@ -46,14 +46,7 @@ p {
   background-color: #e8f0fe;
 }
 
-div.textbox {
+.textbox {
   background-color: #188038;
-}
-
-h2.textbox {
-  color: white;
-}
-
-p.textbox {
   color: #d4e8da;
 }
