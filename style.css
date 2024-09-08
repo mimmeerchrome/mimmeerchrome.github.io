@@ -43,7 +43,6 @@ p {
 }
 
 .boxcorn {
-  text-align: center;
   padding: 5px;
   border-radius: 25px;
   margin: auto;
@@ -64,8 +63,4 @@ p {
   background-color: #188038;
   color: #d4e8da;
   width: 22%;
-}
-
-.inlinea {
-  display: inline;
 }
