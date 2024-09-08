@@ -36,7 +36,6 @@ p {
 
 #boxcorn {
   text-align: center;
-  width: 50%;
   padding: 5px;
   border-radius: 25px;
   margin: auto;
@@ -44,9 +43,15 @@ p {
 
 .mainbox {
   background-color: #e8f0fe;
+  width: 50%;
 }
 
 .textbox {
   background-color: #188038;
   color: #d4e8da;
+  width: 28%;
+}
+
+.inlinea {
+  display: inline;
 }
