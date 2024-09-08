@@ -1,3 +1,5 @@
+/* This is where the Google font is added */
+
 @font-face {
   font-family: googleSans;
   src: url(GoogleSans-Regular.ttf);
@@ -8,6 +10,8 @@
   src: url(GoogleSans-Bold.ttf);
   font-weight: bold;
 }
+
+/* This is the styling */
 
 * {
   font-family: googleSans;
