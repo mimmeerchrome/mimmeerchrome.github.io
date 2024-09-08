@@ -42,7 +42,7 @@ p {
   margin-bottom: 12px;
 }
 
-#boxcorn {
+.boxcorn {
   text-align: center;
   padding: 5px;
   border-radius: 25px;
