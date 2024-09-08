@@ -31,8 +31,13 @@ p {
 }
 
 #boxcorn {
+  text-align: center;
   width: 50%;
   padding: 5px;
   border-radius: 25px;
+  
+}
+
+.mainbox {
   background-color: #e8f0fe;
 }
