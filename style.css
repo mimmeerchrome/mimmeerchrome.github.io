@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: googleSans;
-  src: url(GoogleSans-Regular.ttf);
+  src: url(/fonts/GoogleSans-Regular.ttf);
 }
 
 @font-face {
   font-family: googleSans;
-  src: url(GoogleSans-Bold.ttf);
+  src: url(/fonts/GoogleSans-Bold.ttf);
   font-weight: bold;
 }
 
