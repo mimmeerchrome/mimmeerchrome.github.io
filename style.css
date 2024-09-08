@@ -60,6 +60,12 @@ p {
   width: 28%;
 }
 
+.morebox {
+  background-color: #188038;
+  color: #d4e8da;
+  width: 22%;
+}
+
 .inlinea {
   display: inline;
 }
